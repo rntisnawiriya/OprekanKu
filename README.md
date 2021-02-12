@@ -1,2 +1,2 @@
 # oprekanku
-this is a my repository ngoprek
+ngoprek yuk
